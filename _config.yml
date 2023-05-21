@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhuoran Zhao"
+  name             : "Zhuoran Zhao 赵卓然"
   avatar           : "profile.png"
   bio              : 
-  location         : "Singapore | Guangzhou"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : zhuoran.zhao@u.nus.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : https://github.com/delaprada
   google_plus      :
   keybase          :
   instagram        :
