@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Zhuoran Zhao, a graduate student in Artificial Intelligence Specialization at [National University of Singapore (NUS)](https://nus.edu.sg/). I'm broadly interested in computer vision and deep learning. I have research experience in 3D computer vision, generative models, conditional motion generation.
 
-I received my B.Eng degree in Software Engineering from [South China University of Technology](https://www.scut.edu.cn/en/). Previously, I had work experience and internship in [Tencent](https://www.tencent.com/en-us/).
+I received my B.Eng degree in Software Engineering from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). Previously, I had work experience and internship in [Tencent](https://www.tencent.com/en-us/) and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/sse/2018/0614/c16789a270666/page.htm).
 
 ## Recent News
 - Jul 2023: One paper is accepted to GCPR 2023.
