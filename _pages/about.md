@@ -17,15 +17,11 @@ I received my B.Eng degree in Software Engineering from [South China University 
 - June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium, with **Best Paper Award**.
 
 ## Recent Publications
-- HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture
-
-  Jiayin Zhu, **Zhuoran Zhao**, Linlin Yang, Angela Yao
-  
+- HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture  
+  Jiayin Zhu, **Zhuoran Zhao**, Linlin Yang, Angela Yao  
   German Conference on Pattern Recognition (GCPR), 2023.
 
 - Taming Diffusion Models for Music-driven
-Conducting Motion Generation
-
-  **Zhuoran Zhao**, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan
-  
+Conducting Motion Generation  
+  **Zhuoran Zhao**, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan  
   AAAI symposia proceedings, 2023.
