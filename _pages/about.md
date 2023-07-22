@@ -24,4 +24,5 @@ I received my B.Eng degree in Software Engineering from [South China University 
 - Taming Diffusion Models for Music-driven
 Conducting Motion Generation  
   **Zhuoran Zhao**, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan  
-  AAAI symposia proceedings, 2023.
+  AAAI symposia proceedings, 2023.  
+  [[arxiv]](https://arxiv.org/abs/2306.10065)
