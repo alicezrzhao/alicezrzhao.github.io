@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at [National University of Singapore (NUS)](https://nus.edu.sg/). I am a member of [CVML group@NUS](https://cvml.comp.nus.edu.sg/), advised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). I'm also memtored by [Dr. Linlin Yang](https://www.mu4yang.com/). My research interests are 3D pose and shape estimation, 3D synthesis and rendering and multi-modal generation.
+I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at [National University of Singapore (NUS)](https://nus.edu.sg/). My research interests are 3D pose and shape estimation, 3D synthesis and rendering and multi-modal generation.
 
 I received my B.Eng degree in Software Engineering from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). Previously, I had work experience in [Tencent](https://www.tencent.com/en-us/) and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/sse/2018/0614/c16789a270666/page.htm).
 
