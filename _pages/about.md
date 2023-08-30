@@ -20,7 +20,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
 - HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture  
   Jiayin Zhu, **Zhuoran Zhao**, Linlin Yang, Angela Yao  
   German Conference on Pattern Recognition (GCPR), 2023.  
-  [Code](https://github.com/viridityzhu/HiFiHR)
+  [Paper](https://arxiv.org/abs/2308.13628) / [Code](https://github.com/viridityzhu/HiFiHR)
 
 - Taming Diffusion Models for Music-driven
 Conducting Motion Generation  
