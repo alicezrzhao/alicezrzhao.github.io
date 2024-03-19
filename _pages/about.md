@@ -16,7 +16,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
 - June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium, with **Best Paper Award**.
 
 ## Recent Publications
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/hifi.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
