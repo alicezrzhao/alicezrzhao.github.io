@@ -19,10 +19,10 @@ I received my B.Eng degree in Software Engineering from [South China University 
 <div style="display: flex; align-items: center;">
     <img src="../images/hifi.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
-        HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture <br> 
-        Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao <br> 
-        German Conference on Pattern Recognition (GCPR), 2023. <br> 
-        <a href="https://arxiv.org/abs/2308.13628">Paper</a> / <a href="https://github.com/viridityzhu/HiFiHR">Code</a> <br>
+        <p style="margin: 3;">HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</p>
+        <p style="margin: 3;">Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
+        <p style="margin: 3;">German Conference on Pattern Recognition (GCPR), 2023.</p>
+        <p style="margin: 3;"><a href="https://arxiv.org/abs/2308.13628">Paper</a> / <a href="https://github.com/viridityzhu/HiFiHR">Code</a></p>
     </div>
 </div>
 
