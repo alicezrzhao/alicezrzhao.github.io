@@ -16,12 +16,33 @@ I received my B.Eng degree in Software Engineering from [South China University 
 - June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium, with **Best Paper Award**.
 
 ## Recent Publications
-- HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture 
+<div style="display: flex; align-items: center;">
+    <img src="../images/hifi.png" alt="HiFiHR Image" height="80" style="margin-right: 30px;"/>
+    <div>
+        <p>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</p>
+        <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
+        <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
+        <p><a href="https://arxiv.org/abs/2308.13628">Paper</a> / <a href="https://github.com/viridityzhu/HiFiHR">Code</a></p>
+    </div>
+</div>
+
+</br>
+
+<div style="display: flex; align-items: center;">
+    <img src="../images/taming.png" alt="HiFiHR Image" height="160" style="margin-right: 30px;"/>
+    <div>
+        <p>Taming Diffusion Models for Music-driven Conducting Motion Generation</p>
+        <p><strong>Zhuoran Zhao</strong>, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan</p>
+        <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
+        <p><a href="https://arxiv.org/abs/2306.10065">Paper</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
+    </div>
+</div>
+<!-- - HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture 
   Jiayin Zhu, **Zhuoran Zhao**, Linlin Yang, Angela Yao  
   German Conference on Pattern Recognition (GCPR), 2023.  
-  [Paper](https://arxiv.org/abs/2308.13628) / [Code](https://github.com/viridityzhu/HiFiHR)
+  [Paper](https://arxiv.org/abs/2308.13628) / [Code](https://github.com/viridityzhu/HiFiHR) -->
 
-- Taming Diffusion Models for Music-driven Conducting Motion Generation  
+<!-- - Taming Diffusion Models for Music-driven Conducting Motion Generation  
   **Zhuoran Zhao**, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan  
   AAAI symposia proceedings, 2023.  
-  [Paper](https://arxiv.org/abs/2306.10065) / [Code](https://github.com/viiika/Diffusion-Conductor)
+  [Paper](https://arxiv.org/abs/2306.10065) / [Code](https://github.com/viiika/Diffusion-Conductor) -->
