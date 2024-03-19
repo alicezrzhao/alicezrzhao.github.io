@@ -18,7 +18,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
 ## Recent Publications
 <div style="display: flex; align-items: center;">
     <img src="../images/hifi.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div>
+    <div style="line-height: 1.2;">
         <p>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</p>
         <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
         <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
@@ -28,7 +28,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
 
 <div style="display: flex; align-items: center;">
     <img src="../images/taming.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div>
+    <div style="line-height: 1.2;">
         <p>Taming Diffusion Models for Music-driven Conducting Motion Generation</p>
         <p><strong>Zhuoran Zhao</strong>, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan</p>
         <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
