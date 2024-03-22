@@ -31,7 +31,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
     <div style="line-height: 1;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan</p>
-        <p style="margin: 10;">German Conference on Pattern Recognition (GCPR), 2023.</p>
+        <p style="margin: 10;">AAAI symposia proceedings, 2023.</p>
         <p style="margin: 10;"><a href="https://arxiv.org/abs/2306.10065">Paper</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
     </div>
 </div>
