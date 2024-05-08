@@ -17,6 +17,19 @@ I received my B.Eng degree in Software Engineering from [South China University 
 
 ## Recent Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <video controls width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+    <div style="line-height: 1;">
+        <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
+        <p>Jiabin Liang, Lanqing Zhang <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
+        <p>arXiv, 2024.</p>
+        <p><a href="https://arxiv.org/abs/2403.14376">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="../images/hifi.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
