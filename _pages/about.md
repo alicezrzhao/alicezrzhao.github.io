@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at [National University of Singapore (NUS)](https://nus.edu.sg/), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). My research interests are 3D hand pose and shape estimation, 3D synthesis and rendering and multi-modal generation.
+I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/). My research interests are mainly in 3D hand pose and shape estimation, 3D synthesis and rendering and multi-modal generation.
 
-I received my B.Eng degree in Software Engineering from [South China University of Technology (SCUT)](https://www.scut.edu.cn/en/). Previously, I had work experience in [Tencent](https://www.tencent.com/en-us/) and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/software_en/2018/1130/c20556a297475/page.htm).
+I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/software_en/2018/1130/c20556a297475/page.htm).
 
 ## Recent News
 - Jul 2023: One paper is accepted to GCPR 2023.
-- June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium, with **Best Paper Award**.
+- June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Recent Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -25,7 +25,8 @@ I received my B.Eng degree in Software Engineering from [South China University 
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
         <p>arXiv, 2024.</p>
-        <p><a href="https://arxiv.org/abs/2403.14376">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p>
+        <!-- <p><a href="https://arxiv.org/abs/2403.14376">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p> -->
+        <p><a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p>
     </div>
 </div>
 
@@ -44,7 +45,7 @@ I received my B.Eng degree in Software Engineering from [South China University 
     <div style="line-height: 1;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan</p>
-        <p style="margin: 10;">AAAI symposia proceedings, 2023.</p>
+        <p style="margin: 10;">AAAI Symposia Proceedings, 2023.</p>
         <p style="margin: 10;"><a href="https://arxiv.org/abs/2306.10065">Paper</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
     </div>
 </div>
