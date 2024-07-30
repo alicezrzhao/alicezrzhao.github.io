@@ -12,7 +12,6 @@ I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at Na
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/software_en/2018/1130/c20556a297475/page.htm).
 
 ## Recent News
-- Jul 2024: One paper is accepted to SIGGRAPH Asia 2024
 - Jul 2023: One paper is accepted to GCPR 2023.
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
