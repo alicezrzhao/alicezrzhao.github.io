@@ -14,7 +14,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 ## Recent News
 - Jul 2024: One paper is accepted to SIGGRAPH Asia 2024
 - Jul 2023: One paper is accepted to GCPR 2023.
-- June 2023: One paper is accepted to AAAI 2023 Inangural Summer Symposium - AI x Metaverse, with **Best Paper Award**.
+- June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Recent Publications
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
