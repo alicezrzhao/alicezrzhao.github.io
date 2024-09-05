@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a master student in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/). My research interests are mainly in 3D hand pose and shape estimation, 3D synthesis and rendering and multi-modal generation.
+I'm Zhuoran Zhao, a first-year PhD student in CMA at HKUST(GZ), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/). My research interests are mainly in Computer Vision in 3D and multi-modal generation. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
 
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://www2.scut.edu.cn/software_en/2018/1130/c20556a297475/page.htm).
 
 ## Recent News
+- Jul 2024: One paper is accepted to SIGGRAPH Asia 2024.
 - Jul 2023: One paper is accepted to GCPR 2023.
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
