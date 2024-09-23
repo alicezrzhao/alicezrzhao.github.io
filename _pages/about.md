@@ -12,6 +12,7 @@ I'm Zhuoran Zhao, a first-year PhD student in CMA at HKUST(GZ), supervised by [P
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
+- Sep 2024: One paper is accepted to SIGGRAPH Asia 2024 Educator's Forum.
 - Jul 2024: One paper is accepted to SIGGRAPH Asia 2024.
 - Jul 2023: One paper is accepted to GCPR 2023.
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
@@ -25,9 +26,8 @@ I received my B.Eng degree in Software Engineering from South China University o
     <div style="line-height: 1;">
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
-        <p>arXiv, 2024.</p>
-        <!-- <p><a href="https://arxiv.org/abs/2403.14376">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p> -->
-        <p><a href="https://jiabinliang.github.io/InfNeRF.io/">Project</a></p>
+        <p>SIGGRAPH Asia, 2024.</p>
+        <p><a href="https://arxiv.org/abs/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a></p>
     </div>
 </div>
 
