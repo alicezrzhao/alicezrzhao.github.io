@@ -27,7 +27,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
         <p>SIGGRAPH Asia, 2024.</p>
-        <p><a href="https://arxiv.org/abs/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a></p>
+        <p><a href="https://arxiv.org/pdf/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a></p>
     </div>
 </div>
 
