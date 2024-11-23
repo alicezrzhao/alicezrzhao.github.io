@@ -22,6 +22,19 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
+  <img src="../images/teacher.jpeg" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1;">
+        <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
+        <strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
+        <p>SIGGRAPH Asia, 2024.</p>
+        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
   <img src="../images/infnerf.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
@@ -45,7 +58,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <img src="../images/taming.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
-        <p style="margin: 10;"><strong>Zhuoran Zhao</strong>, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan</p>
+        <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
         <p style="margin: 10;">AAAI Symposia Proceedings, 2023.</p>
         <p style="margin: 10;"><a href="https://arxiv.org/abs/2306.10065">Paper</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
     </div>
