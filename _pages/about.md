@@ -27,7 +27,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
         <p>SIGGRAPH Asia, 2024.</p>
-        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>
+        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a></p>
     </div>
 </div>
 
