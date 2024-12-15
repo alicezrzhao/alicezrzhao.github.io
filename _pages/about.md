@@ -22,12 +22,12 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/teacher.jpeg" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
+  <img src="../images/demo.gif" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
-        <p>SIGGRAPH Asia, 2024.</p>
-        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a></p>
+        <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
+        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a></p> / <a href="https://github.com/delaprada/Embodied-AI-Guided-Interactive-Digital-Teacher.git">Code</a></p>
     </div>
 </div>
 
@@ -40,7 +40,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
         <p>SIGGRAPH Asia, 2024.</p>
-        <p><a href="https://arxiv.org/pdf/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a></p>
+        <p><a href="https://arxiv.org/pdf/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a> / <a href="https://github.com/sail-sg/InfNeRF.git">Code</a></p>
     </div>
 </div>
 
@@ -55,7 +55,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/taming.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
+    <img src="../images/conductor.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
