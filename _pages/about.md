@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a first-year PhD student in CMA at HKUST(GZ), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/). My research interests are mainly in Computer Vision in 3D and multi-modal generation. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
+I'm Zhuoran Zhao, a first-year PhD student in CMA at HKUST(GZ), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/). My research interests are mainly in 3D Computer Vision and Multi-modal Generation. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
 
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
+- FEB 2025: One paper is accepted to CVPR 2025.
 - Sep 2024: One paper is accepted to SIGGRAPH Asia 2024 Educator's Forum.
 - Jul 2024: One paper is accepted to SIGGRAPH Asia 2024.
 - Jul 2023: One paper is accepted to GCPR 2023.
