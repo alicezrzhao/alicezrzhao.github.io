@@ -39,7 +39,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
         <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
-        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">PDF</a> / <a href="https://github.com/delaprada/Embodied-AI-Guided-Interactive-Digital-Teacher.git">Code</a></p>
+        <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a> / <a href="https://github.com/delaprada/Embodied-AI-Guided-Interactive-Digital-Teacher.git">Code</a></p>
     </div>
 </div>
 
@@ -52,7 +52,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
         <p>SIGGRAPH Asia, 2024.</p>
-        <p><a href="https://arxiv.org/pdf/2403.14376v2">PDF</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a> / <a href="https://github.com/sail-sg/InfNeRF.git">Code</a></p>
+        <p><a href="https://arxiv.org/pdf/2403.14376v2">Paper</a> / <a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a> / <a href="https://github.com/sail-sg/InfNeRF.git">Code</a></p>
     </div>
 </div>
 
@@ -62,7 +62,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
         <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
         <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
-        <p><a href="https://arxiv.org/abs/2308.13628">PDF</a> / <a href="https://github.com/viridityzhu/HiFiHR">Code</a></p>
+        <p><a href="https://arxiv.org/abs/2308.13628">Paper</a> / <a href="https://github.com/viridityzhu/HiFiHR">Code</a></p>
     </div>
 </div>
 
@@ -72,7 +72,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
         <p style="margin: 10;">AAAI Symposia Proceedings, 2023.</p>
-        <p style="margin: 10;"><a href="https://arxiv.org/abs/2306.10065">PDF</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
+        <p style="margin: 10;"><a href="https://arxiv.org/abs/2306.10065">Paper</a> / <a href="https://github.com/viiika/Diffusion-Conductor">Code</a></p>
     </div>
 </div>
 <!-- - HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture 
