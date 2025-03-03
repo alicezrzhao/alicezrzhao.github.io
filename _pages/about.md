@@ -19,7 +19,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Recent Publications
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
@@ -30,7 +30,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
     </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
@@ -43,7 +43,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
@@ -56,7 +56,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
     <img src="../images/gcpr.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
