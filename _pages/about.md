@@ -84,3 +84,6 @@ I received my B.Eng degree in Software Engineering from South China University o
   **Zhuoran Zhao**, Jinbin Bai, Delong Chen, Debang Wang, Yubo Pan  
   AAAI symposia proceedings, 2023.  
   [Paper](https://arxiv.org/abs/2306.10065) / [Code](https://github.com/viiika/Diffusion-Conductor) -->
+
+## Teaching
+- CMAA5025 Social Media for Creativity Spring 2024-25, Teaching Assistant
