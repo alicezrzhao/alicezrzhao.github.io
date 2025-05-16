@@ -41,7 +41,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
         <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
         <p><a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a> / <a href="https://github.com/delaprada/Embodied-AI-Guided-Interactive-Digital-Teacher.git">Code</a></p>
-        `:smile:` Our system was used in the CMAA5025 Social Media for Creativity Spring Course!
+        <p>Our system was used in the CMAA5025 Social Media for Creativity Spring Course!</p>
     </div>
 </div>
 
