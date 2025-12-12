@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at HKUST(GZ), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). My research interests are mainly in 3D Computer Vision and Multi-modal Generation. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
+I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at HKUST(GZ), supervised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Pan Hui](https://panhui.people.ust.hk/). My research interests are mainly in 3D Computer Vision and Video Generation / Editing. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
 
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
@@ -20,6 +20,18 @@ I received my B.Eng degree in Software Engineering from South China University o
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Recent Publications
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1;">
+        <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
+        <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
+        <p>arXiv Preprint, 2025.</p>
+        <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
+    </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
