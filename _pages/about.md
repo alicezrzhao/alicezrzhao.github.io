@@ -19,7 +19,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 - Jul 2023: One paper is accepted to GCPR 2023.
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
-## Recent Publications
+## Selected Papers
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
