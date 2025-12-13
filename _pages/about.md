@@ -25,7 +25,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
   <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
         <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
         <p>arXiv Preprint, 2025.</p>
@@ -37,7 +37,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
   <img src="../images/cvpr.png" alt="" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p><strong>Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Linlin Yang, Pengzhan Sun, Pan Hui, Angela Yao</p>
         <p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
@@ -49,7 +49,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
   <img src="../images/platform2.png" alt="" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
         <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
@@ -63,7 +63,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
   <img src="../images/infnerf.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
         <p>SIGGRAPH Asia, 2024.</p>
@@ -73,7 +73,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
     <img src="../images/gcpr.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
         <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
         <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
@@ -83,7 +83,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <div style="display: flex; align-items: center;">
     <img src="../images/conductor.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
         <p style="margin: 10;">AAAI Symposia Proceedings, 2023.</p>
@@ -97,7 +97,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <div style="display: flex; align-items: center;">
     <img src="../images/sea.jpeg" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Sea AI Lab</strong></p>
         <p style="margin: 10;">Research Engineer Intern</p>
         <p style="margin: 10;">Topic: Large-scale 3D Scene Reconstruction</p>
@@ -109,7 +109,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <div style="display: flex; align-items: center;">
     <img src="../images/tencent.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Tencent</strong></p>
         <p style="margin: 10;">Frontend Developer</p>
         <p style="margin: 10;">July 2021 - July 2022</p>
@@ -122,7 +122,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <div style="display: flex; align-items: center;">
     <img src="../images/conductor.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1;">
+    <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
         <p style="margin: 10;">Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
         <p style="margin: 10;">[<a href="https://arxiv.org/abs/2306.10065">Paper</a>]
