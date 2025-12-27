@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at HKUST(GZ), supervised by [Prof. Anyi Rao](https://anyirao.com/) and [Prof. Pan Hui](https://panhui.people.ust.hk/). My research interests are mainly in 3D Computer Vision and Video Generation / Editing. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
+I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at HKUST(GZ), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). My research interests are mainly in 3D Computer Vision and Video Generation / Editing. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/) at the [CVML Lab](https://cvml.comp.nus.edu.sg/).
 
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
@@ -53,7 +53,7 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
         <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
         <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
-        <p>[<a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>] [<a href="https://github.com/delaprada/Embodied-AI-Guided-Interactive-Digital-Teacher.git">Code</a>]</p>
+        <p>[<a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>]</p>
         <p>Our system was used in the CMAA5025 Social Media for Creativity Spring Course!</p>
     </div>
 </div>
