@@ -28,7 +28,7 @@ I received my B.Eng degree in Software Engineering from South China University o
   <img src="../images/sesahand.png" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
-        <strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Wei Zheng, Pan Hui, Anyi Rao</p>
+        <p><strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Wei Zheng, Pan Hui, Anyi Rao</p>
         <p>ICLR 2026.</p>
         <p>[<a href="https://openreview.net/forum?id=sKMgGQQy7g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)">Openreview</a>]</p>
     </div>
