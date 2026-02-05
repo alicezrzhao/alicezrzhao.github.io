@@ -12,14 +12,39 @@ I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at H
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
+- Feb 2026: Two papers are accepted to ICLR 2026. See you in Rio de Janeiro!
 - June 2025: I will attend the [Experimental Model Auditing via Controllable Synthesis workshop](https://sites.google.com/view/emacs2025) and [Rhobin workshop](https://rhobin-challenge.github.io/index.html) at CVPR as "invited poster"!
-- Feb 2025: One paper is accepted to CVPR 2025. See you at Nashville!
-- Sep 2024: One paper is accepted to SIGGRAPH Asia 2024 Educator's Forum. See you at Tokyo!
+- Feb 2025: One paper is accepted to CVPR 2025. See you in Nashville!
+- Sep 2024: One paper is accepted to SIGGRAPH Asia 2024 Educator's Forum. See you in Tokyo!
 - Jul 2024: One paper is accepted to SIGGRAPH Asia 2024.
 - Jul 2023: One paper is accepted to GCPR 2023.
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Selected Papers
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/sesahand.png" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
+        <strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Wei Zheng, Pan Hui, Anyi Rao</p>
+        <p>ICLR 2026.</p>
+        <p>[<a href="https://openreview.net/forum?id=sKMgGQQy7g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)">Openreview</a>]
+    </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/muddit.png" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
+        <p>Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
+        <p>ICLR 2026.</p>
+        <p>[<a href="https://arxiv.org/pdf/2505.23606">Paper</a>] [<a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a>]</p>
+    </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
