@@ -29,7 +29,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Zheng Wei, Pan Hui, Anyi Rao</p>
-        <p>ICLR 2026.</p>
+        <p>ICLR, 2026.</p>
         <p>[<a href="https://openreview.net/forum?id=sKMgGQQy7g&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)">Openreview</a>]</p>
     </div>
 </div>
@@ -41,7 +41,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <div style="line-height: 1.5;">
         <p><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
         <p>Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
-        <p>ICLR 2026.</p>
+        <p>ICLR, 2026.</p>
         <p>[<a href="https://arxiv.org/pdf/2505.23606">Paper</a>] [<a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a>]</p>
     </div>
 </div>
