@@ -65,7 +65,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <div style="line-height: 1.5;">
         <p><strong>Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Linlin Yang, Pengzhan Sun, Pan Hui, Angela Yao</p>
-        <p>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</p>
+        <p>CVPR, 2025.</p>
         <p>[<a href="https://arxiv.org/pdf/2503.19307">Paper</a>] [<a href="https://github.com/delaprada/HandSynthesis">Code</a>]</p>
     </div>
 </div>
