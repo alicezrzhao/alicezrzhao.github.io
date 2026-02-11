@@ -25,7 +25,7 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/sesahand2.png" alt="" width="30%" style="margin-right: 30px;"/>
+  <img src="../images/sesahand.jpg" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Zheng Wei, Pan Hui, Anyi Rao</p>
