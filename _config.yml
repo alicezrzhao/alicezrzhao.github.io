@@ -187,9 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  sesahand:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -245,13 +242,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  - scope:
-      path: ""
-      type: sesahand
-    values:
-      layout: sesahand
       author_profile: true
       share: true
 
