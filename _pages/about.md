@@ -118,7 +118,7 @@ I received my B.Eng degree in Software Engineering from South China University o
 
 <br>
 
-## Industrial Experience
+## Experience
 
 <div style="display: flex; align-items: center;">
     <img src="../images/sea.jpeg" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
