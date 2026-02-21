@@ -26,10 +26,6 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
-    <source src="../images/infnerf.mp4" type="video/mp4">
-  </video> -->
   <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
@@ -38,6 +34,10 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
     </div>
 </div>
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
   <img src="../images/sesahand.jpg" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
