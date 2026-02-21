@@ -12,7 +12,8 @@ I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at H
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
-- Feb 2026: Two papers are accepted to ICLR 2026. See you in Rio de Janeiro!
+- Feb 2026: One paper is accepted to CVPR 2026.
+- Jan 2026: Two papers are accepted to ICLR 2026. See you in Rio de Janeiro!
 - June 2025: I will attend the [Experimental Model Auditing via Controllable Synthesis workshop](https://sites.google.com/view/emacs2025) and [Rhobin workshop](https://rhobin-challenge.github.io/index.html) at CVPR as "invited poster"!
 - Feb 2025: One paper is accepted to CVPR 2025. See you in Nashville!
 - Sep 2024: One paper is accepted to SIGGRAPH Asia 2024 Educator's Forum. See you in Tokyo!
@@ -25,6 +26,18 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
+  <div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
+        <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
+        <p>CVPR, 2026.</p>
+        <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
+    </div>
+</div>
   <img src="../images/sesahand.jpg" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
@@ -43,18 +56,6 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p>Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
         <p>ICLR, 2026.</p>
         <p>[<a href="https://arxiv.org/pdf/2505.23606">Paper</a>] [<a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a>]</p>
-    </div>
-</div>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
-    <source src="../images/infnerf.mp4" type="video/mp4">
-  </video> -->
-  <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1.5;">
-        <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
-        <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
-        <p>arXiv Preprint, 2025.</p>
-        <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
