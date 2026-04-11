@@ -30,7 +30,7 @@ I received my B.Eng degree in Software Engineering from South China University o
     <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
         <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
-        <p>CVPR, 2026.</p>
+        <p>CVPR, 2026. <strong>(highlight)</strong></p>
         <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
     </div>
 </div>
