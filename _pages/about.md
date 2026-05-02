@@ -12,6 +12,7 @@ I'm Zhuoran Zhao, a second-year PhD student in Computational Media and Arts at H
 I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT). Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
+- May 2026: One paper is accepted to ICML 2026.
 - Feb 2026: One paper is accepted to CVPR 2026.
 - Jan 2026: Two papers are accepted to ICLR 2026. See you in Rio de Janeiro!
 - June 2025: I will attend the [Experimental Model Auditing via Controllable Synthesis workshop](https://sites.google.com/view/emacs2025) and [Rhobin workshop](https://rhobin-challenge.github.io/index.html) at CVPR as "invited poster"!
@@ -70,19 +71,19 @@ I received my B.Eng degree in Software Engineering from South China University o
         <p>[<a href="https://arxiv.org/pdf/2503.19307">Paper</a>] [<a href="https://github.com/delaprada/HandSynthesis">Code</a>]</p>
     </div>
 </div>
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 30px;"> -->
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/platform2.png" alt="" width="30%" style="margin-right: 30px;"/>
-    <div style="line-height: 1.5;">
-        <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p>
-        <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p>
-        <p>SIGGRAPH Asia, 2024 Educator's Forum.</p>
-        <p>[<a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>]</p>
-        <p>Our system was used in the CMAA5025 Social Media for Creativity Spring Course!</p>
-    </div>
-</div>
+  <!-- <img src="../images/platform2.png" alt="" width="30%" style="margin-right: 30px;"/> -->
+    <!-- <div style="line-height: 1.5;"> -->
+        <!-- <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p> -->
+        <!-- <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p> -->
+        <!-- <p>SIGGRAPH Asia, 2024 Educator's Forum.</p> -->
+        <!-- <p>[<a href="https://dl.acm.org/doi/10.1145/3680533.3697070">Paper</a>]</p> -->
+        <!-- <p>Our system was used in the CMAA5025 Social Media for Creativity Spring Course!</p> -->
+    <!-- </div> -->
+<!-- </div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
