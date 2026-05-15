@@ -27,6 +27,18 @@ I received my B.Eng degree in Software Engineering from South China University o
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
+  <img src="../images/icml.png" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>Threshold-Guided Optimization for Visual Generative Models</strong></p>
+        <p>Jinbin Bai, Yu Lei, Qingyu Shi, Aosong Feng, Yi Xin, <strong>Zhuoran Zhao</strong>, Fei Shen, Kaidong Yu, Xiangtai Li</p>
+        <p>ICML, 2026.</p>
+        <p>[<a href="https://arxiv.org/pdf/2605.04653">Paper</a>]</p>
+    </div>
+</div>
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
   <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
