@@ -12,6 +12,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <!-- Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). -->
 
 ## Recent News
+- Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
 - May 2026: One paper is accepted to ICML 2026.
 - Feb 2026: One paper is accepted to CVPR 2026.
 - Jan 2026: Two papers are accepted to ICLR 2026. See you in Rio de Janeiro!
@@ -23,6 +24,18 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Selected Papers
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/solarwm.webp" alt="" width="30%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models</strong></p>
+        <p>Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, <strong>Zhuoran Zhao</strong>, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang</p>
+        <p>Technical Report, 2026.</p>
+        <p>[<a href="https://arxiv.org/pdf/2609.02886">Paper</a>][<a href="https://junchao-cs.github.io/SolarWM-Web/">Project Page</a>] [<a href="https://github.com/Junchao-cs/SolarWM">Code</a>] [<a href="https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data">Data</a>]</p>
+    </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
