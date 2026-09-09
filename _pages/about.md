@@ -12,7 +12,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <!-- Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). -->
 
 ## Recent News
-- Sep 2026: Our paper Mask Forcing is now available on arXiv!
+- Sep 2026: Our paper <a href="https://alicezrzhao.github.io/mask_forcing/">Mask Forcing</a> is now available on arXiv!
 - Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
 - May 2026: One paper is accepted to ICML 2026.
 - Feb 2026: One paper is accepted to CVPR 2026.
