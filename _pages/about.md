@@ -32,7 +32,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
   <img src="../images/mask_forcing.png" alt="" width="35%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout</strong></p>
-        <strong>Zhuoran Zhao</strong>, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</p>
+        <p><strong>Zhuoran Zhao</strong>, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</p>
         <p>Preprint, 2026.</p>
         <p>[<a href="https://arxiv.org/pdf/2609.09123">Paper</a>][<a href="https://alicezrzhao.github.io/mask_forcing/">Project Page</a>] [<a href="https://github.com/delaprada/Mask-Forcing">Code</a>]</p>
     </div>
