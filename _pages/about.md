@@ -12,6 +12,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <!-- Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). -->
 
 ## Recent News
+- Sep 2026: Our paper Mask Forcing is now available on arXiv!
 - Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
 - May 2026: One paper is accepted to ICML 2026.
 - Feb 2026: One paper is accepted to CVPR 2026.
@@ -24,6 +25,18 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 - June 2023: One paper is accepted to AAAI 2023 Summer Symposium - AI x Metaverse, with **Best Paper Award**.
 
 ## Selected Papers
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+    <source src="../images/infnerf.mp4" type="video/mp4">
+  </video> -->
+  <img src="../images/mask_forcing.png" alt="" width="35%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p><strong>Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout</strong></p>
+        <strong>Zhuoran Zhao</strong>, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</p>
+        <p>Preprint, 2026.</p>
+        <p>[<a href="https://arxiv.org/pdf/2609.09123">Paper</a>][<a href="https://alicezrzhao.github.io/mask_forcing/">Project Page</a>] [<a href="https://github.com/delaprada/Mask-Forcing">Code</a>]</p>
+    </div>
+</div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
   <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
