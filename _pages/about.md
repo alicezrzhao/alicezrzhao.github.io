@@ -162,7 +162,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <div style="display: flex; align-items: center;">
     <img src="../images/lightspeed.png" alt="HiFiHR Image" width="25%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
-        <p style="margin: 10;"><strong>LightSpeed Studios</strong></p>
+        <p style="margin: 10;"><strong>LightSpeed Studios, Tencent</strong></p>
         <p style="margin: 10;">Research Intern</p>
         <p style="margin: 10;">Topic: Video Generation</p>
         <p style="margin: 10;">March 2026 - present</p>
