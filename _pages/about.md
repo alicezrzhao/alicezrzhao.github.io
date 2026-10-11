@@ -159,9 +159,20 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <br>
 
 ## Experience
+<div style="display: flex; align-items: center;">
+    <img src="../images/lightspeed.png" alt="HiFiHR Image" width="25%" style="margin-right: 30px;"/>
+    <div style="line-height: 1.5;">
+        <p style="margin: 10;"><strong>LightSpeed Studios</strong></p>
+        <p style="margin: 10;">Research Intern</p>
+        <p style="margin: 10;">Topic: Video Generation</p>
+        <p style="margin: 10;">March 2026 - present</p>
+    </div>
+</div>
+
+<br>
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/sea.jpeg" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+    <img src="../images/sea.jpeg" alt="HiFiHR Image" width="25%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Sea AI Lab</strong></p>
         <p style="margin: 10;">Research Engineer Intern</p>
@@ -173,7 +184,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
 <br>
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/tencent.png" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+    <img src="../images/tencent.png" alt="HiFiHR Image" width="25%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Tencent</strong></p>
         <p style="margin: 10;">Frontend Developer</p>
@@ -205,4 +216,4 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at HK
   [Paper](https://arxiv.org/abs/2306.10065) / [Code](https://github.com/viiika/Diffusion-Conductor) -->
 
 ## Academic Service
-- Reviewer for CVPR, AAAI, ECCV, Siggraph Asia, Pacific Graphics
+- Reviewer for ICLR, CVPR, ECCV, AAAI, Siggraph Asia, Pacific Graphics
