@@ -1,0 +1,43 @@
+.paper-metrics {
+  display: inline-flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+.paper-metric {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 2px 8px;
+  border: 1px solid #d5d9df;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #424a53 !important;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none !important;
+  box-shadow: 0 1px 2px rgba(27, 31, 36, 0.08);
+  transition: color 0.15s ease, border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.paper-metric[hidden] {
+  display: none;
+}
+
+.paper-metric:hover,
+.paper-metric:focus {
+  color: #f09228 !important;
+  border-color: #f0b570;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 5px rgba(27, 31, 36, 0.12);
+}
+
+.paper-metric svg {
+  width: 13px;
+  height: 13px;
+  fill: currentColor;
+}

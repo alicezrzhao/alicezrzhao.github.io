@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at MMLab@HKUST. My research interests are mainly in Video Generation / Editing and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT), working with [Prof. Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). 
-
-<!-- Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). -->
+I'm Zhuoran Zhao, a third-year PhD student in Computational Media at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at [MMLab@HKUST](https://mmlab-hkust.github.io/). My research interests are mainly in Video World Models and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT), working with [Prof. Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). 
 
 ## Recent News
 - Oct 2026: We release SolarWM-H3 Realtime ([Blog](https://solarx-team.github.io/SolarWM-H3-Realtime/)), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control ([Code](https://github.com/SolarX-Team/SolarWM-H3-Realtime)).
@@ -34,7 +32,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</p>
-        <p>Preprint, 2026.</p>
+        <p>Preprint, 2026.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="delaprada/Mask-Forcing" href="https://github.com/delaprada/Mask-Forcing" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/pdf/2609.09123">Paper</a>][<a href="https://alicezrzhao.github.io/mask_forcing/">Project Page</a>] [<a href="https://github.com/delaprada/Mask-Forcing">Code</a>]</p>
     </div>
 </div>
@@ -46,7 +44,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models</strong></p>
         <p>Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, <strong>Zhuoran Zhao</strong>, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang</p>
-        <p>Technical Report, 2026.</p>
+        <p>Technical Report, 2026.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="Junchao-cs/SolarWM" href="https://github.com/Junchao-cs/SolarWM" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/pdf/2609.02886">Paper</a>][<a href="https://junchao-cs.github.io/SolarWM-Web/">Project Page</a>] [<a href="https://github.com/Junchao-cs/SolarWM">Code</a>] [<a href="https://huggingface.co/datasets/junchaoh-cs/SolarWM-Data">Data</a>]</p>
     </div>
 </div>
@@ -70,7 +68,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
         <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
-        <p>CVPR, 2026. <strong>(highlight)</strong></p>
+        <p>CVPR, 2026. <strong>(highlight)</strong><span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="refkxh/bico" href="https://github.com/refkxh/bico" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/abs/2512.09824">Paper</a>] [<a href="https://refkxh.github.io/BiCo_Webpage/">Project Page</a>] [<a href="https://github.com/refkxh/bico">Code</a>]</p>
     </div>
 </div>
@@ -94,7 +92,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
         <p>Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
-        <p>ICLR, 2026.</p>
+        <p>ICLR, 2026.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="M-E-AGI-Lab/Muddit" href="https://github.com/M-E-AGI-Lab/Muddit" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/pdf/2505.23606">Paper</a>] [<a href="https://github.com/M-E-AGI-Lab/Muddit">Code</a>]</p>
     </div>
 </div>
@@ -106,7 +104,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Linlin Yang, Pengzhan Sun, Pan Hui, Angela Yao</p>
-        <p>CVPR, 2025.</p>
+        <p>CVPR, 2025.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="delaprada/HandSynthesis" href="https://github.com/delaprada/HandSynthesis" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/pdf/2503.19307">Paper</a>] [<a href="https://github.com/delaprada/HandSynthesis">Code</a>]</p>
     </div>
 </div>
@@ -132,7 +130,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
-        <p>SIGGRAPH Asia, 2024.</p>
+        <p>SIGGRAPH Asia, 2024.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="sail-sg/InfNeRF" href="https://github.com/sail-sg/InfNeRF" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://dl.acm.org/doi/pdf/10.1145/3680528.3687646">Paper</a>] [<a href="https://jiabinliang.github.io/InfNeRF.io/">Project Page</a>] [<a href="https://github.com/sail-sg/InfNeRF.git">Code</a>]</p>
     </div>
 </div>
@@ -142,7 +140,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
         <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
-        <p>German Conference on Pattern Recognition (GCPR), 2023.</p>
+        <p>German Conference on Pattern Recognition (GCPR), 2023.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="viridityzhu/HiFiHR" href="https://github.com/viridityzhu/HiFiHR" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p>[<a href="https://arxiv.org/abs/2308.13628">Paper</a>] [<a href="https://github.com/viridityzhu/HiFiHR">Code</a>]</p>
     </div>
 </div>
@@ -152,7 +150,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
-        <p style="margin: 10;">AAAI Symposia Proceedings, 2023.</p>
+        <p style="margin: 10;">AAAI Symposia Proceedings, 2023.<span class="paper-metrics"><a class="paper-metric paper-metric-github" data-github-repo="viiika/Diffusion-Conductor" href="https://github.com/viiika/Diffusion-Conductor" target="_blank" rel="noopener noreferrer" aria-label="GitHub stars" hidden><span class="paper-metric-value"></span></a></span></p>
         <p style="margin: 10;">[<a href="https://arxiv.org/abs/2306.10065">Paper</a>] [<a href="https://github.com/viiika/Diffusion-Conductor">Code</a>]</p>
     </div>
 </div>
