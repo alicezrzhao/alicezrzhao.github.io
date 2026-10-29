@@ -12,6 +12,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media and Arts at Ho
 <!-- Previously, I had work experience in Tencent and worked as research assistant in SCUT advised by [Prof.Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). -->
 
 ## Recent News
+- Oct 2026: We release SolarWM-H3 Realtime ([Blog](https://solarx-team.github.io/SolarWM-H3-Realtime/)), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control ([Code](https://github.com/SolarX-Team/SolarWM-H3-Realtime)).
 - Sep 2026: Our paper <a href="https://alicezrzhao.github.io/mask_forcing/">Mask Forcing</a> is now available on arXiv!
 - Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
 - May 2026: One paper is accepted to ICML 2026.
