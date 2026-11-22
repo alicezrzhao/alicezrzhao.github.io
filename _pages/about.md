@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at [MMLab@HKUST](https://mmlab-hkust.github.io/). My research interests are mainly in Interactive Video World Models and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT).
+I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media and Arts at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at [MMLab@HKUST](https://mmlab-hkust.github.io/). My research interests are mainly in Interactive Video World Models and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT).
 
 ## Recent News
 - Nov 2026: We release [SolarWM-H3 Memory](https://solarx-team.github.io/SolarWM-H3-Memory), improving long-term scene consistency and preserving visual details across revisits.
