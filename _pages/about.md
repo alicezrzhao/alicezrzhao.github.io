@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhuoran Zhao, a third-year PhD student in Computational Media at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at [MMLab@HKUST](https://mmlab-hkust.github.io/). My research interests are mainly in Video World Models and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT), working with [Prof. Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN). 
+I'm Zhuoran Zhao, a third-year PhD candidate in Computational Media at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Pan Hui](https://panhui.people.ust.hk/) and [Prof. Anyi Rao](https://anyirao.com/). I am currently a visiting student at [MMLab@HKUST](https://mmlab-hkust.github.io/). My research interests are mainly in Interactive Video World Models and 3D Computer Vision. Before that, I received my master's degree in Computer Science (AI Specialization) at National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/) and [Dr. Linlin Yang](https://mu4yang.com/). I received my B.Eng degree in Software Engineering from South China University of Technology (SCUT), working with [Prof. Junying Chen](https://scholar.google.com/citations?user=vbIfLPsAAAAJ&hl=zh-CN).
 
 ## Recent News
+- Nov 2026: We release SolarWM-H3 Memory ([Blog](https://solarx-team.github.io/SolarWM-H3-Memory) · [Weights](https://huggingface.co/junchaoh-cs/SolarWM-H3-33B/tree/main/SolarWM-h3-33B-memory-stage1-158f) · [Usage](https://github.com/Junchao-cs/SolarWM/blob/main/docs/solar_wm/backends/minimax-h3.md#enable-memory)), improving long-term scene consistency and preserving visual details across revisits.
 - Oct 2026: We release SolarWM-H3 Realtime ([Blog](https://solarx-team.github.io/SolarWM-H3-Realtime/)), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control ([Code](https://github.com/SolarX-Team/SolarWM-H3-Realtime)).
 - Sep 2026: Our paper <a href="https://alicezrzhao.github.io/mask_forcing/">Mask Forcing</a> is now available on arXiv!
 - Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
@@ -163,7 +164,7 @@ I'm Zhuoran Zhao, a third-year PhD student in Computational Media at The Hong Ko
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>LightSpeed Studios, Tencent</strong></p>
         <p style="margin: 10;">Research Intern</p>
-        <p style="margin: 10;">Topic: Video Generation</p>
+        <p style="margin: 10;">Topic: Real-time interactive video world model</p>
         <p style="margin: 10;">March 2026 - present</p>
     </div>
 </div>
