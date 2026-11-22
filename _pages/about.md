@@ -11,7 +11,7 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 
 ## Recent News
 - Nov 2026: We release [SolarWM-H3 Memory](https://solarx-team.github.io/SolarWM-H3-Memory), improving long-term scene consistency and preserving visual details across revisits.
-- Oct 2026: We release [SolarWM-H3 Realtime](https://solarx-team.github.io/SolarWM-H3-Realtime/)), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control.
+- Oct 2026: We release [SolarWM-H3 Realtime](https://solarx-team.github.io/SolarWM-H3-Realtime/), enabling low-latency interactive video generation from an image and a prompt, with real-time camera control.
 - Sep 2026: Our paper <a href="https://alicezrzhao.github.io/mask_forcing/">Mask Forcing</a> is now available on arXiv!
 - Sep 2026: Released [SolarWM](https://junchao-cs.github.io/SolarWM-Web/) — open data and scalable training for long-horizon video world models.
 - May 2026: One paper is accepted to ICML 2026.
@@ -26,10 +26,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 
 ## Selected Papers
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/mask_forcing.png" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/mask_forcing.png" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Shengju Qian, Tongtong Liang, Xianghao Kong, Songchun Zhang, Junchao Huang, Guian Fang, Xin Wang, Pan Hui, Anyi Rao</p>
@@ -38,10 +38,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/solarwm.webp" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/solarwm.webp" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models</strong></p>
         <p>Junchao Huang, Guian Fang, Shengju Qian, Xianghao Kong, <strong>Zhuoran Zhao</strong>, Wei Huang, Yihua Du, Zixin Zhang, Justin Cui, Yuchao Gu, Yukang Chen, Xinting Hu, Tianyu He, Shaoshuai Shi, Zhuotao Tian, Xin Wang, Mike Zheng Shou, Li Jiang</p>
@@ -50,10 +50,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/icml.png" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/icml.png" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Threshold-Guided Optimization for Visual Generative Models</strong></p>
         <p>Jinbin Bai, Yu Lei, Qingyu Shi, Aosong Feng, Yi Xin, <strong>Zhuoran Zhao</strong>, Fei Shen, Kaidong Yu, Xiangtai Li</p>
@@ -62,10 +62,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/bico.gif" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/bico.gif" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Composing Concepts from Images and Videos via Concept-prompt Binding</strong></p>
         <p>Xianghao Kong, Zeyu Zhang, Yuwei Guo, <strong>Zhuoran Zhao</strong>, Songchun Zhang, Anyi Rao</p>
@@ -74,10 +74,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/sesahand.jpg" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/sesahand.jpg" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>SesaHand: Enhancing 3D Hand Reconstruction via Controllable Generation with Semantic and Structural Alignment</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Xianghao Kong, Linlin Yang, Zheng Wei, Pan Hui, Anyi Rao</p>
@@ -86,10 +86,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/muddit.png" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/muddit.png" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
         <p>Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
@@ -98,10 +98,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/cvpr.png" alt="" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/cvpr.png" alt="" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>Analyzing the Synthetic-to-Real Domain Gap in 3D Hand Pose Estimation</strong></p>
         <p><strong>Zhuoran Zhao</strong>, Linlin Yang, Pengzhan Sun, Pan Hui, Angela Yao</p>
@@ -110,10 +110,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
     </div>
 </div>
 <!-- <div style="display: flex; align-items: center; margin-bottom: 30px;"> -->
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <!-- <img src="../images/platform2.png" alt="" width="35%" style="margin-right: 30px;"/> -->
+  <!-- <img src="../images/platform2.png" alt="" width="30%" style="margin-right: 30px;"/> -->
     <!-- <div style="line-height: 1.5;"> -->
         <!-- <p><strong>Embodied AI-Guided Interactive Digital Teacher for Education</strong></p> -->
         <!-- <p><strong>Zhuoran Zhao</strong>*, Zhizhuo Yin*, Jia Sun, Pan Hui</p> -->
@@ -124,10 +124,10 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 <!-- </div> -->
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-  <!-- <video controls autoplay width="35%" style="margin-right: 30px;">
+  <!-- <video controls autoplay width="30%" style="margin-right: 30px;">
     <source src="../images/infnerf.mp4" type="video/mp4">
   </video> -->
-  <img src="../images/infnerf.gif" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+  <img src="../images/infnerf.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity</strong></p>
         <p>Jiabin Liang, Lanqing Zhang, <strong>Zhuoran Zhao</strong>, Xiangyu Xu</p>
@@ -137,7 +137,7 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
-    <img src="../images/gcpr.png" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+    <img src="../images/gcpr.png" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p><strong>HiFiHR: Enhancing 3D Hand Reconstruction from a Single Image via High-Fidelity Texture</strong></p>
         <p>Jiayin Zhu, <strong>Zhuoran Zhao</strong>, Linlin Yang, Angela Yao</p>
@@ -147,7 +147,7 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 </div>
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/conductor.gif" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+    <img src="../images/conductor.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Taming Diffusion Models for Music-driven Conducting Motion Generation</strong></p>
         <p style="margin: 10;"><strong>Zhuoran Zhao</strong>*, Jinbin Bai*, Delong Chen, Debang Wang, Yubo Pan</p>
@@ -197,7 +197,7 @@ I'm Zhuoran Zhao, a third-year Ph.D. candidate in Computational Media at The Hon
 <!-- ## Preprint
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/conductor.gif" alt="HiFiHR Image" width="35%" style="margin-right: 30px;"/>
+    <img src="../images/conductor.gif" alt="HiFiHR Image" width="30%" style="margin-right: 30px;"/>
     <div style="line-height: 1.5;">
         <p style="margin: 10;"><strong>Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model</strong></p>
         <p style="margin: 10;">Qingyu Shi, Jinbin Bai, <strong>Zhuoran Zhao</strong>, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan</p>
